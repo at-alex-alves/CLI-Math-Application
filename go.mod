@@ -1,4 +1,4 @@
-module cli_math_application
+module github.com/at-alex-alves/cli_math_application
 
 go 1.16
 

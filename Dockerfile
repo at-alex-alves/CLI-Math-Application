@@ -5,4 +5,4 @@ COPY . /app
 WORKDIR /app
 
 # Builds an executable from the project.
-RUN go build -o math_cli_app .
+RUN go build -o math_cli_app ./src
